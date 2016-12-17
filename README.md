@@ -1,2 +1,2 @@
 # Machine-Learning-Basic-Algo
-basic algo implmentation 
+Implementation of Decision Trees, Hidden Markov Model
