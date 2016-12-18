@@ -1,7 +1,5 @@
 package Markov;
-/*
- * Author-Vedashree Govinda Gowda(vxg142830)
- */
+
 import java.util.ArrayList;
 
 public class CalculateProb {
