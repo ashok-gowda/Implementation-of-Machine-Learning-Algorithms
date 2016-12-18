@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 public class DataPoint {
 	/*
-	 * Author-Vedashree Govinda Gowda 
+	 * 
 	 * This class file contains getter and setter method
 	 * The data -Structure is an ArrayList of DataPoints for storing data
 	 * DataPoints datastructure contains an ArrayList for storing the values in an individual record
