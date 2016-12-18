@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.util.ArrayList;
 import java.io.IOException;
 /*
- * Author-Vedashree Govinda Gowda(vxg142830)
+ * Author-Ashok Govinda Gowda(vxg142830)
  */
 
 
