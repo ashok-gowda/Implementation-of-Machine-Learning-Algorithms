@@ -6,7 +6,7 @@ import java.util.HashSet;
 
 public class DTree {
 	/*
-	 * Author-Vedashree Govinda Gowda
+	 * 
 	 * This class files contains functions for Calculating entropy,Information Gain 
 	 * and also to check whether a node is leaf node
 	 * .The build decision tree is called recursively to build Decision tree.
