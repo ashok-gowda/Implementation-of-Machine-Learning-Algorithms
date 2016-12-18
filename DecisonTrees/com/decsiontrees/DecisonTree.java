@@ -5,7 +5,7 @@ import java.util.*;
 
 public class DecisonTree {
 	/*
-	 * Author-Vedashree Govinda Gowda This class file contains the main
+	 * This class file contains the main
 	 * function,print function and the function used to test instances of test
 	 * files
 	 */
